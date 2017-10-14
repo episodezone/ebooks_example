@@ -128,7 +128,7 @@ class CloneBot < Ebooks::Bot
   end
 end
 
-CloneBot.new("abby_ebooks") do |bot|
+MyBot.new("suncitybot") do |bot|
   bot.access_token = ""
   bot.access_token_secret = ""
 
