@@ -129,8 +129,8 @@ class CloneBot < Ebooks::Bot
 end
 
 MyBot.new("suncitybot") do |bot|
-  bot.access_token = ""
-  bot.access_token_secret = ""
+  bot.access_token = "HZ62pUsZjBkslQYrcLx26GuW9"
+  bot.access_token_secret = "h6o5RmU6pvyiCX1MELDj5DJ21cfeSNMxl4crzJKVAOaUivV01Z"
 
   bot.original = "0xabad1dea"
 end
