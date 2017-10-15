@@ -130,6 +130,6 @@ end
 
 MyBot.new("suncitybot") do |bot|
   bot.access_token = "894973431543988224-j8uytTtWh4ew4RdKot52jlLfiadKeb0"
-  bot.access_token_secret = "	yVx7TCnfFadVznn2efTS167j9PsMqM6dkIkevt7dP69Wu"
+  bot.access_token_secret = "yVx7TCnfFadVznn2efTS167j9PsMqM6dkIkevt7dP69Wu"
 
 end
